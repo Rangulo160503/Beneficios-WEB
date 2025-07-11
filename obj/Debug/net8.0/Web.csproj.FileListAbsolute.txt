@@ -31,3 +31,4 @@ C:\Users\v-ronaldan\OneDrive - Microsoft\Documents\Eli\web\HR-Beneficios-WEB\obj
 C:\Users\v-ronaldan\OneDrive - Microsoft\Documents\Eli\web\HR-Beneficios-WEB\obj\Debug\net8.0\Web.pdb
 C:\Users\v-ronaldan\OneDrive - Microsoft\Documents\Eli\web\HR-Beneficios-WEB\obj\Debug\net8.0\Web.genruntimeconfig.cache
 C:\Users\v-ronaldan\OneDrive - Microsoft\Documents\Eli\web\HR-Beneficios-WEB\obj\Debug\net8.0\ref\Web.dll
+C:\Users\v-ronaldan\OneDrive - Microsoft\Documents\Eli\web\HR-Beneficios-WEB\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
